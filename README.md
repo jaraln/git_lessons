@@ -5,3 +5,4 @@ Dette er en tredje endring.
 
 En test for å se forskjeller på filer.
 
+En endring som jeg ikke er klar over.
