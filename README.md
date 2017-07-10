@@ -3,3 +3,5 @@ Dette er en endring.
 
 Dette er en tredje endring.
 
+En test for å se forskjeller på filer.
+
